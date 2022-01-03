@@ -1,0 +1,15 @@
+/*@media (prefers-color-scheme: dark) {
+    body {
+        color: #FFF5CF;
+        background-color: #171717;
+    }
+}*/
+
+.microlight {
+    font-size: 1.1em;
+    font-family : monospace;
+    white-space : pre;
+    background-color : #C4E4E8;
+    color            : #052C36;
+    padding: 1rem;    
+}

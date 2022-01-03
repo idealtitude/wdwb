@@ -6,4 +6,4 @@ wdwb is written in Python 3.9, and with the [wxPython toolkit](https://wxpython.
 
 For the moment, it looks like that:
 
-![Screenshot of wdwb-0.1.0](https://github.com/idealtitude/wdwb/doc/img/wdwb-0.1.0.png)
+![Screenshot of wdwb-0.1.0](https://raw.githubusercontent.com/idealtitude/wdwb/main/doc/img/wwb-0.1.0.png)
